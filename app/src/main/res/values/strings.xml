@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">calculator app</string>
+    <string name="calculator"> calculator</string>
+    <string name="web_page"> web page</string>
+    <string name="intent_page">intent page</string>
+    <string name="my_image">my image</string>
+</resources>
